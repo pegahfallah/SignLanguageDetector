@@ -90,6 +90,21 @@ export default function Index() {
           src="https://images.pexels.com/photos/4629625/pexels-photo-4629625.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
         ></img>
       </div>
+      <div>
+        <h2>How can innovative technologies promote reduced inequalities?</h2>
+        <p>
+          Applications and software technologies have now become essential and
+          our dependency on them is increasing exponentially each year. In this
+          project, the student team will understand the knowledge, skills, and
+          practices of web development and Machine Learning and get hands-on
+          experience working with the intrinsic components (front-end, backend,
+          system design, and the UI) of an infrastructure to gain insight on how
+          software and applications work. The project team will then develop a
+          machine learning based prototype for deaf and people who are hard of
+          hearing, the model will help them in communicating effectively thereby
+          cultivating EDI (Equity, Diversity & Inclusivity) in society.
+        </p>
+      </div>
     </div>
   );
 }
